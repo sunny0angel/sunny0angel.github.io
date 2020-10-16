@@ -16,7 +16,7 @@ Maybe someday, I would disappear from here, then I must have given up my dream a
 
 I really don't want to see the bad end, and you guys must be the same with me.
 
-SO, I'll do my best to keep my words, please wait for my good news.
+So, I'll do my best to keep my words, please wait for my good news.
 
 Bad end will never happen.
 
