@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to My Github
 
-You can use the [editor on GitHub](https://github.com/sunny0angel/sunny0angel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is the most important and critical time of all of my 30 years life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I, as a outsourcing programmer, am aim to be one of the most famous companies of the industry.
 
-### Markdown
+However, I lost most of my 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So, I must start right now, to catch up with others, and gain my 
 
-```markdown
-Syntax highlighted code block
+I decide to start with writing a compiler, maybe it's not so well.
 
-# Header 1
-## Header 2
-### Header 3
+And the next is a program language, the next, OS, and the next, and the next...
 
-- Bulleted
-- List
+Maybe someday, I would disappear from here, then I must have given up my dream and my left life.
 
-1. Numbered
-2. List
+I really don't want to see the bad end, and you guys must be the same with me.
 
-**Bold** and _Italic_ and `Code` text
+SO, I'll do my best to keep my words, please wait for my good news.
 
-[Link](url) and ![Image](src)
-```
+Bad end will never happen.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact Me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunny0angel/sunny0angel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to contact me, please call me with my email: sunny0angel@gmail.com
