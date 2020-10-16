@@ -4,9 +4,9 @@ This is the most important and critical time of all of my 30 years life.
 
 I, as a outsourcing programmer, am aim to be one of the most famous companies of the industry.
 
-However, I lost most of my 
+However, I lost most of my college knowledge in my outsourcing work.
 
-So, I must start right now, to catch up with others, and gain my 
+I must start right now, to catch up with others, to gain my goals.
 
 I decide to start with writing a compiler, maybe it's not so well.
 
