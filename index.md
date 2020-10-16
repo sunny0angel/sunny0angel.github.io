@@ -1,8 +1,8 @@
 ## Welcome to My Github
 
-This is the most important and critical time of all of my 30 years life.
+This is the most important and critical time of all of the past 30 years of my life.
 
-I, as a outsourcing programmer, am aim to be one of the most famous companies of the industry.
+I, as a outsourcing programmer, am aimed to be one of the most famous companies of the IT industry.
 
 However, I lost most of my college knowledge in my outsourcing work.
 
