@@ -1,8 +1,9 @@
 ---
-title: 设计一门新语言，并且写一个编译器（1）
-date: 2020-10-18 21:48:00
-categories: Program
-toc: true
+title:      设计一门新语言，并且写一个编译器（1）
+date:       2020-10-18 21:48:00
+category:   blog
+published:  true
+permalink:  /:categories/:year/:month/:day/:title.html  # 覆盖全局变量设定的文章发布格式
 ---
 ## 设计一门新语言，并且写一个编译器（1）
 
