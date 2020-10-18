@@ -1,25 +1,12 @@
 ## Welcome to My Github
 
-This is the most important and critical time of all of the past 30 years of my life.
+未来，如果我的项目成功了，我会在这页，放上我的简历。
 
-I, as a outsourcing programmer, am aimed to be one of the most famous companies of the IT industry.
+下面是我的博文，请多指教。
 
-However, I lost most of my college knowledge in my outsourcing work.
+https://github.com/sunny0angel/sunny0angel.github.io/blob/main/_posts/20201018_01.md
 
-I must start right now, to catch up with others, to gain my goals.
-
-I decide to start with writing a compiler, maybe it's not so well.
-
-And the next is a program language, the next, OS, and the next, and the next...
-
-Maybe someday, I would disappear from here, then I must have given up my dream and my left life.
-
-I really don't want to see the bad end, and you guys must be the same with me.
-
-So, I'll do my best to keep my words, please wait for my good news.
-
-Bad end will never happen.
-
+https://github.com/sunny0angel/sunny0angel.github.io/blob/main/_posts/20201018_02.md
 
 ### Contact Me
 
