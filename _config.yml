@@ -1,7 +1,7 @@
 # 站点设置
 theme: jekyll-theme-minimal
 title: 从外包迈向大厂之路
-description: ----程序员成神之路
+subtitle: ----程序员成神之路
 SEOTitle: 玉皇大帝的博客 | Yu Blog # 显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-css.jpg # 首页头部背景图
 email: sunny0angel@gmail.com # 邮箱地址
@@ -31,6 +31,7 @@ permalink: :year/:month/:day/:title/ #永久链接格式
 permalink_defaults: #永久链接中各部分的默认值
 
 # Directory 目录配置
+posts_dir: posts
 source_dir: source #资源文件夹，这个文件夹用来存放内容
 public_dir: public #公共文件夹，这个文件夹用于存放生成的站点文件
 tag_dir: tags #标签文件夹
